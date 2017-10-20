@@ -1,4 +1,4 @@
-site_name:        pwr.jl
+site_name:        Powerlog.jl
 repo_url:         https://github.com/mwsohn/Powerlog.jl
 site_description: Logistic regression power analysis
 site_author:      mwsohn
